@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "162122062181",
+    "project_id": "dhtstore-87485",
+    "storage_bucket": "dhtstore-87485.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162122062181:android:10bf494ae8bf7f3967a98c",
+        "android_client_info": {
+          "package_name": "com.example.cuoiky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFd8jIe1w2hEqATxDzDsAYFTwIfigyz-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162122062181:android:3ccba1559dab49d267a98c",
+        "android_client_info": {
+          "package_name": "com.example.dht"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFd8jIe1w2hEqATxDzDsAYFTwIfigyz-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
