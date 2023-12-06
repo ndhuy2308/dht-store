@@ -1,0 +1,556 @@
+{
+   "checksum": "48e3111dad459b81bf9a76564c00e787",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13328252621732948",
+            "date_last_used": "13330429737926878",
+            "guid": "190ea77e-9e03-487f-815e-1d0de5334f0a",
+            "id": "7",
+            "name": "React Native - Pepsi Game – Figma",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.figma.com/file/XPiJMv4inzYDfSLgV4LlDm/React-Native---Pepsi-Game?type=design&node-id=2-1993&t=3X0QcVbZBQccfgfG-0"
+         }, {
+            "date_added": "13320767503449324",
+            "date_last_used": "0",
+            "guid": "40be094f-7b22-4db7-b8cc-71836336bbab",
+            "id": "8",
+            "name": "71PHYS10012-2001100181-HK222: TEST 1",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://elearning.vanlanguni.edu.vn/mod/quiz/view.php?id=706159"
+         }, {
+            "date_added": "13343877777416753",
+            "date_last_used": "13343930054906786",
+            "guid": "f942a0df-5c4f-4bc9-a416-99f5559d1c02",
+            "id": "9",
+            "name": "TUẦN 7",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://elearning.vanlanguni.edu.vn/course/view.php?id=23535#section-7"
+         }, {
+            "date_added": "13321511557221495",
+            "date_last_used": "0",
+            "guid": "475ac2d9-2197-4f70-b19e-d41a2929a0e2",
+            "id": "10",
+            "name": "Online Python - IDE, Editor, Compiler, Interpreter",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.online-python.com/"
+         }, {
+            "date_added": "13321888976780554",
+            "date_last_used": "13339967185805275",
+            "guid": "7752aa36-4cbb-4d6f-a355-cea93ae9147f",
+            "id": "11",
+            "name": "[React Native] Props và State là gì? Khi nào thì sử dụng?",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://vntalking.com/react-native-phan-biet-props-va-state-don-gian-de-hieu.html"
+         }, {
+            "date_added": "13321821467126408",
+            "date_last_used": "13322802137663699",
+            "guid": "37d3c61b-c343-4c33-85bd-f5a4d9a4d44c",
+            "id": "12",
+            "name": "React Native Environment FULL Setup (Windows) - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=oorfevovPWw"
+         }, {
+            "date_added": "13321989107811494",
+            "date_last_used": "13341559665533020",
+            "guid": "d0eddcb9-349c-4ccd-b282-cfba49d68456",
+            "id": "13",
+            "name": "Sài Gòn Có Gì ? - Bài viết | Facebook",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.facebook.com/SGCG247/posts/499472148392713"
+         }, {
+            "date_added": "13343809619266098",
+            "date_last_used": "0",
+            "guid": "5f262f9c-7df9-4e47-bbeb-20804f1b4361",
+            "id": "14",
+            "name": "Không có mô tả.",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://scontent.fsgn5-10.fna.fbcdn.net/v/t1.15752-9/384561928_652460213725756_7880184554073019267_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeFrg7sbmVFR79b1f321RA12LtCf4Vi1Inou0J_hWLUielsL4lQ2o2djGt2Qsm-5MZCeLLWDt12p3_BPcGbR5ETW&_nc_ohc=xMEyyOpvcIsAX82B1JP&_nc_ht=scontent.fsgn5-10.fna&cb_e2o_trans=t&oh=03_AdRZRHsm1EON9H1w7uVAL9Ow8H7QNR3ASrWRvLW8Hh229A&oe=65712FAA"
+         }, {
+            "date_added": "13322802417235533",
+            "date_last_used": "0",
+            "guid": "0d4e11e7-2a26-492e-8251-3f77bab3cef0",
+            "id": "15",
+            "name": "Củ sạc nhanh RAVPower 30w - 2 cổng [1 type C; 1 type A] RP - PC144 [BH 12T] | Lazada.vn",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.lazada.vn/products/cu-sac-nhanh-ravpower-30w-2-cong-1-type-c-1-type-a-rp-pc144-bh-12t-i1518679008-s7710354649.html?"
+         }, {
+            "date_added": "13322829675501936",
+            "date_last_used": "13330118531169827",
+            "guid": "902a3912-cb3b-4eea-a62d-83d9a8de051e",
+            "id": "16",
+            "name": "Phụ Kiện iPhone Phước Long, Cửa hàng trực tuyến | Shopee Việt Nam",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://shopee.vn/quanteo2010?categoryId=100013&entryPoint=ShopByPDP&itemId=22027864016&upstream=search"
+         }, {
+            "date_added": "13324118056633375",
+            "date_last_used": "0",
+            "guid": "876f35a8-92df-4039-9e4a-986724c2c9c9",
+            "id": "17",
+            "name": "DCCT va bieu mau Do an Thuc tap 1 & 2 - OneDrive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://vanlangunivn-my.sharepoint.com/personal/chau_lth_vlu_edu_vn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchau%5Flth%5Fvlu%5Fedu%5Fvn%2FDocuments%2F0%2E%202023%2F02%2E%20%C4%90%E1%BB%93%20%C3%A1n%20th%E1%BB%B1c%20t%E1%BA%ADp%2FDCCT%20va%20bieu%20mau%20Do%20an%20Thuc%20tap%201%20%26%202&ga=1"
+         }, {
+            "date_added": "13326723177745269",
+            "date_last_used": "0",
+            "guid": "646378b7-629a-4c44-9037-cdb53bda2d97",
+            "id": "18",
+            "name": "(3) Redux là gì? Cách mình setup dự án React Typescript | Hướng dẫn chi tiết về Redux Toolkit Typescript - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=BTqqBE97s80&list=PLFfVmM19UNqmDPV_8K6YjiBNXimQna6wW"
+         }, {
+            "date_added": "13328464480576331",
+            "date_last_used": "0",
+            "guid": "0084801c-29cc-484c-9ca7-f6f6d4396db7",
+            "id": "19",
+            "name": "jondot/awesome-react-native: Awesome React Native components, news, tools, and learning material!",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/jondot/awesome-react-native#readme"
+         }, {
+            "date_added": "13330354732027371",
+            "date_last_used": "0",
+            "guid": "86266372-b607-4595-97a1-ddd6c6edb2c4",
+            "id": "20",
+            "name": "Facebook",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.facebook.com/"
+         }, {
+            "date_added": "13330436177587083",
+            "date_last_used": "0",
+            "guid": "2a5efe69-6b19-408a-b13e-2e27564a4144",
+            "id": "21",
+            "name": "(1) Chia sẻ - Hướng dẫn bypass giới hạn phát wifi | GocMod Team - Diễn đàn GocMod",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://forum.gocmod.com/threads/huong-d-n-bypass-gioi-han-phat-wifi.2351/"
+         }, {
+            "date_added": "13330972544846481",
+            "date_last_used": "0",
+            "guid": "53ab1874-1a29-4fcc-9c73-fa864ac3b3bd",
+            "id": "22",
+            "name": "Bảo tàng Hồ Chí Minh",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://baotanghochiminh.baotangao.com/"
+         }, {
+            "date_added": "13331146719629340",
+            "date_last_used": "0",
+            "guid": "40a55f04-b867-4e33-a706-abfd5c5781f6",
+            "id": "23",
+            "name": "Cáp sạc nhanh PD R.a..v Power 1.2m (C-L) bọc dù, sạc nhanh 20W PD chuẩn M.F.i | Shopee Việt Nam",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://shopee.vn/C%C3%A1p-s%E1%BA%A1c-nhanh-PD-R.a..v-Power-1.2m-(C-L)-b%E1%BB%8Dc-d%C3%B9-s%E1%BA%A1c-nhanh-20W-PD-chu%E1%BA%A9n-M.F.i-i.10091288.22728491960?sp_atk=3c718f98-e63b-4988-a933-80beeffb1538&xptdk=3c718f98-e63b-4988-a933-80beeffb1538"
+         }, {
+            "date_added": "13331905709866410",
+            "date_last_used": "0",
+            "guid": "91a8100e-410c-4f7d-aef6-302c08972eb7",
+            "id": "24",
+            "name": "Watch | Facebook",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.facebook.com/watch/?extid=CL-UNK-UNK-UNK-IOS_GK0T-GK1C&mibextid=2Rb1fB&v=728709145923554"
+         }, {
+            "date_added": "13332414563217535",
+            "date_last_used": "0",
+            "guid": "b1e12267-097e-4119-9727-5117122801c9",
+            "id": "25",
+            "name": "Đăng ký học phần 04",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://regist.vlu.edu.vn/DangKyKeHoach"
+         }, {
+            "date_added": "13332786242482083",
+            "date_last_used": "0",
+            "guid": "1a3943de-2250-4119-b02e-6bb87d80ae2d",
+            "id": "26",
+            "name": "BT Quá trình Chương V. (page 6 of 20)",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://elearning.vanlanguni.edu.vn/mod/quiz/attempt.php?attempt=12660136&cmid=852398&page=5"
+         }, {
+            "date_added": "13333042926984231",
+            "date_last_used": "0",
+            "guid": "f37a0288-172f-43b3-8919-ffcc7f0fd3bb",
+            "id": "27",
+            "name": "cpu xeon e3 1220v3 / e3 1246v3 / e3 1280v3 / e3 1271v3 ngang i7 4790 socket 1150/ tặng keo tản nhiệt | Shopee Việt Nam",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://shopee.vn/cpu-xeon-e3-1220v3-e3-1246v3-e3-1280v3-e3-1271v3-ngang-i7-4790-socket-1150-t%E1%BA%B7ng-keo-t%E1%BA%A3n-nhi%E1%BB%87t-i.424565855.6486084809?sp_atk=74195fd8-cc06-4c56-9e33-23506b7b794e&xptdk=74195fd8-cc06-4c56-9e33-23506b7b794e"
+         }, {
+            "date_added": "13333375618048004",
+            "date_last_used": "0",
+            "guid": "757f80dd-f0b0-4c7f-bb11-829d0088514d",
+            "id": "28",
+            "name": "Cpu Core i3 6100,7100,i5 3570,4570,6500,7500,8500,9400F,9500,i5 10400T,10500T, i7 2600,3770,4790,6700,7700,8700,9700 | Shopee Việt Nam",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://shopee.vn/Cpu-Core-i3-6100-7100-i5-3570-4570-6500-7500-8500-9400F-9500-i5-10400T-10500T-i7-2600-3770-4790-6700-7700-8700-9700-i.94113624.1721200452?sp_atk=ce7913d8-f8a9-41f6-80f7-d0d85b3ea839&xptdk=ce7913d8-f8a9-41f6-80f7-d0d85b3ea839"
+         }, {
+            "date_added": "13334575498064553",
+            "date_last_used": "0",
+            "guid": "bae530aa-a585-4ebb-9542-836d9ff092f6",
+            "id": "29",
+            "name": "Cổng Dịch vụ công Bộ Công An",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://dichvucong.bocongan.gov.vn/bocongan/bothutuc/tthc?matt=35674"
+         }, {
+            "date_added": "13334743602169733",
+            "date_last_used": "0",
+            "guid": "70a5901b-ede6-49e5-8812-20bb5a3debd0",
+            "id": "30",
+            "name": "create logo - Tìm trên Google",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.com/search?q=create+logo&oq=create+logo&aqs=edge..69i57j0i131i433i512l2j0i512l5j69i64.4558j0j1&sourceid=chrome&ie=UTF-8"
+         }, {
+            "date_added": "13334743603418527",
+            "date_last_used": "0",
+            "guid": "40e21ee5-6437-4a64-b2cd-ed28ce57b137",
+            "id": "31",
+            "name": "Logo Maker | Create Free Logos in Minutes | Canva",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.canva.com/create/logos/"
+         }, {
+            "date_added": "13337374040708105",
+            "date_last_used": "0",
+            "guid": "9af92ed8-e1da-4372-a90d-0e9621eb1a6c",
+            "id": "32",
+            "name": "free02.123host.vn | DirectAdmin 1.652",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://free02.123host.vn:2222/CMD_FILE_MANAGER?path=/domains/duchuy2308.id.vn/public_html"
+         }, {
+            "date_added": "13337392246115563",
+            "date_last_used": "0",
+            "guid": "493b0563-96a1-4158-9760-b2276567f0f9",
+            "id": "33",
+            "name": "Cloudflare API Documentation",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://developers.cloudflare.com/api/operations/lists-create-a-list"
+         }, {
+            "date_added": "13337538860932336",
+            "date_last_used": "0",
+            "guid": "17ba1ba3-64d7-4324-a20d-df6d479cdf8e",
+            "id": "34",
+            "name": "Mạch K00 Bluetooth 5.0+ Dsp ra 2.0 và 2.1 , Tws , Bassboot … | Shopee Việt Nam",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://shopee.vn/M%E1%BA%A1ch-K00-Bluetooth-5.0-Dsp-ra-2.0-v%C3%A0-2.1-Tws-Bassboot-%E2%80%A6-i.86635575.20363329573?sp_atk=b24dbcef-48bc-4e4b-8dff-92346651587a&xptdk=b24dbcef-48bc-4e4b-8dff-92346651587a"
+         }, {
+            "date_added": "13338308873049126",
+            "date_last_used": "0",
+            "guid": "d1bbe1ee-db4c-4738-8d29-d0c804b5fcb6",
+            "id": "35",
+            "name": "Chain of Trust - Let's Encrypt",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://letsencrypt.org/certificates/"
+         }, {
+            "date_added": "13338308875044712",
+            "date_last_used": "0",
+            "guid": "030ff4cf-df78-4d62-b828-ec1e8b7d5888",
+            "id": "36",
+            "name": "IKEv2 EAP-MSCHAPv2 authentication with User Manager - MikroTik",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://forum.mikrotik.com/viewtopic.php?t=181436"
+         }, {
+            "date_added": "13338309850967880",
+            "date_last_used": "0",
+            "guid": "2eecb997-a2cf-43ec-88ea-9a62af507628",
+            "id": "37",
+            "name": "IPsec - RouterOS - MikroTik Documentation",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://help.mikrotik.com/docs/display/ROS/IPsec#IPsec-RoadWarriorsetupusingIKEv2withEAP-MSCHAPv2authenticationhandledbyUserManager%28RouterOSv7%29"
+         }, {
+            "date_added": "13338334547229312",
+            "date_last_used": "0",
+            "guid": "fb8f8376-f009-447f-92fa-26d8f5bc42ce",
+            "id": "38",
+            "name": "IPSEC/IKE2 (with certificates) VPN server guide for remote access - MikroTik",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://forum.mikrotik.com/viewtopic.php?t=175656"
+         }, {
+            "date_added": "13338367579830770",
+            "date_last_used": "0",
+            "guid": "012d08f4-0f93-4315-9cc6-c403ce954ea6",
+            "id": "39",
+            "name": "HOWTO: Windows 10 - IKEv2 VPN without 3rd party software : r/mikrotik",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.reddit.com/r/mikrotik/comments/iw804t/howto_windows_10_ikev2_vpn_without_3rd_party/"
+         }, {
+            "date_added": "13338438351267326",
+            "date_last_used": "0",
+            "guid": "b8637ce7-ce69-4dd7-b031-5f6a9e9b0b3b",
+            "id": "40",
+            "name": "Releases · ViRb3/wgcf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/ViRb3/wgcf/releases"
+         }, {
+            "date_added": "13338586376433835",
+            "date_last_used": "0",
+            "guid": "7f213355-cc15-4e0e-aa26-506eed06cb98",
+            "id": "41",
+            "name": "Cloudflare API Documentation",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://developers.cloudflare.com/api/operations/dns-records-for-a-zone-update-dns-record"
+         }, {
+            "date_added": "13338644045199189",
+            "date_last_used": "0",
+            "guid": "0a7dcdf5-18d5-43ed-9d7d-a45658161f11",
+            "id": "42",
+            "name": "mt76 TX power not working in multiple chipsets (mt7610, mt7613, mt7615, mt7603) · Issue #633 · openwrt/mt76",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/openwrt/mt76/issues/633#issuecomment-1445294226"
+         }, {
+            "date_added": "13340658412997109",
+            "date_last_used": "0",
+            "guid": "b224a37a-3362-4b00-8d91-747cadbededc",
+            "id": "43",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "uc",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/18422640/how-to-show-traffic-from-specific-domain-in-chrome-dev-tools"
+         }, {
+            "date_added": "13341124445409360",
+            "date_last_used": "0",
+            "guid": "edb5aed3-dc13-4512-8831-09f972396053",
+            "id": "44",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "acmesh-official/acme.sh: A pure Unix shell script implementing ACME client protocol",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/acmesh-official/acme.sh"
+         }, {
+            "date_added": "13341126957125621",
+            "date_last_used": "0",
+            "guid": "58795f0a-9405-4879-a482-734d240d1981",
+            "id": "45",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to create Let's Encrypt SSL certificates with acme.sh on Linux | TechRepublic",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.techrepublic.com/article/how-to-create-lets-encrypt-ssl-certificates-with-acme-sh-on-linux/"
+         }, {
+            "date_added": "13341147126903252",
+            "date_last_used": "0",
+            "guid": "26ce8e6a-de0a-498a-a66f-2cf33cc18b6a",
+            "id": "46",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "d",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "edge://newtab/"
+         }, {
+            "date_added": "13341416887714740",
+            "date_last_used": "0",
+            "guid": "d4cf0731-bd7c-4f51-8355-fd5bcf6b025f",
+            "id": "47",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Poe - Dashboard Count Issue",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://poe.com/chat/2mw88110c8723j1kx2n"
+         }, {
+            "date_added": "13341811099777124",
+            "date_last_used": "0",
+            "guid": "02925bd8-1fa2-4b3e-b596-28a15b8e8e61",
+            "id": "48",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Cloudflare Adblock",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://localhost/"
+         }, {
+            "date_added": "13343328762166232",
+            "date_last_used": "0",
+            "guid": "eb388faa-8942-484e-81a7-20ab66b81250",
+            "id": "49",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Poe - Múi giờ",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://poe.com/chat/2p12dbe659cns97s93f"
+         }, {
+            "date_added": "13343385392627692",
+            "date_last_used": "0",
+            "guid": "9d0aa40e-472f-4654-9bed-e368999f7f78",
+            "id": "50",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Cách chia sẻ 4Gb Wintel cho máy khác không giới hạn dung lượng - AnonyViet",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://anonyviet.com/cach-chia-se-4gb-wintel-gioi-han-dung-luong/"
+         }, {
+            "date_added": "13343735312926489",
+            "date_last_used": "0",
+            "guid": "b7aa0167-ba30-4245-9a54-3e07cd4fd69f",
+            "id": "51",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "OneLogin",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://broward.onelogin.com/login2/?return=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiJodHRwczovL2Jyb3dhcmQub25lbG9naW4uY29tLyIsImJyYW5kX2lkIjoibWFzdGVyIiwiaXNzIjoiTU9OT1JBSUwiLCJmZl9tdWx0aXBsZV9icmFuZHMiOnRydWUsImV4cCI6MTY5OTI2MTg4NSwicGFyYW1zIjp7fSwibWV0aG9kIjoiZ2V0IiwiYXVkIjoiQUNDRVNTIn0.k3vJGf0j_CziY8i2OrHZsVR5iHuzZynBcTov-j4-1L4#app="
+         }, {
+            "date_added": "13343738245256300",
+            "date_last_used": "0",
+            "guid": "6aad5b67-7a50-49a8-aa37-d356890ba876",
+            "id": "52",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "kiến thức - Lọc nhớt và dầu nhớt cho xe ly hợp ướt phổ thông (xe số/ côn tay) | Page 2 | VOZ",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://voz.vn/t/loc-nhot-va-dau-nhot-cho-xe-ly-hop-uot-pho-thong-xe-so-con-tay.253384/page-2"
+         }, {
+            "date_added": "13345636744406740",
+            "date_last_used": "0",
+            "guid": "2e550314-4ec7-4e44-9afc-7e55beafdf35",
+            "id": "53",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Add Firebase to your Flutter app",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://firebase.google.com/docs/flutter/setup?platform=ios"
+         }, {
+            "date_added": "13346007769634382",
+            "date_last_used": "0",
+            "guid": "5c9005ed-907e-431e-bd15-da3b80073c22",
+            "id": "54",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Dầu Nhớt Shell Advance Fuel Save 10W30 Tiết Kiệm Nhiên Liệu Tổng Hợp Hoàn Toàn Cho Xe Ga Và Xe Số | Shopee Việt Nam",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://shopee.vn/D%E1%BA%A7u-Nh%E1%BB%9Bt-Shell-Advance-Fuel-Save-10W30-Ti%E1%BA%BFt-Ki%E1%BB%87m-Nhi%C3%AAn-Li%E1%BB%87u-T%E1%BB%95ng-H%E1%BB%A3p-Ho%C3%A0n-To%C3%A0n-Cho-Xe-Ga-V%C3%A0-Xe-S%E1%BB%91-i.182097617.22448940594?sp_atk=7789bf94-cf46-418a-b0e4-ec7cff8a5ddb&xptdk=7789bf94-cf46-418a-b0e4-ec7cff8a5ddb"
+         } ],
+         "date_added": "13346171420663812",
+         "date_last_used": "0",
+         "date_modified": "13346007769634382",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13346171420663818",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13346171420663820",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCEMuHjWMAQAAEgAgASoYcHpncFNDMVdyMmJ4Y3JoaGJ0czVzQT09oAYMEokBCAIShAEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJGU0NDYzMTkyLWQyYWItNTYyZS04ODQwLTMwOWZkY2EyZjFiMhgAIAAoADCHjr6NsjA4q/7XyvQvQKv+18r0L0ocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASqAEICBKjAQocdS82ekdOa1dvUGJGOExpcWRoeGYxVm0yemhVPRIkNDBiZTA5NGYtN2IyMi00ZGI3LWI4Y2MtNzE4MzYzMzZiYmFiGAAgAigCMIef5ajDMTiEnpzX5DBA0eXiqMMxShxob00wOXJzejJIdDE0YU51dVNXTFcvV3dwbDA9Wh8iHbhhSGpGd3MvUGJWWCtDdkpidU40YUlCQTBPc3c9ZffTw4ESrwEILhKqAQocT251U1hhTzE3clp4Q2RFQ0pLS2VhWkVvRHBvPRIkMjZjZThlNmEtZGUwYS00OThhLWE2NmYtMmNmMzNjYzE4YjZhGAAgACgAMJqJ/sywMTiK9P3MsDFAivT9zLAxShxDUzk1V1VmeGREVHNHR3RrUmllc3FZRWFVTVE9WiYiJP////8AAAAFUk5zVGtleEIzTkFMMUpwOWhQUDN1UFMvSStFPWVU1WA+EqoBCBkSpQEKHHZFZVZRMFd4OW1zRUsvS0xkd2tINGZZSzRCQT0SJGIxZTEyMjY3LTA5N2UtNDExOS05NzI3LTUxMTcxMjI4MDFjORgAIAAoADCvr/yIkDE4ybL8iJAxQMmy/IiQMUoca3JGd0VxY0RhQnhjdE5hMm04TUhoWkdRZnBjPVohIh////oxdm5RMGdjVU1mSFBaTUc2dnM1dk1GU1FRVVU9ZQAAAAASiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkZGUyMDgzMzItYzFjYS01NDhmLThlNmUtM2NjYTk0OTJmOTQzGAAgACgAMIeOvo2yMDib/tfK9C9Am/7XyvQvShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKoAQgJEqMBChw3bDdZbjB6dmhHbXJKWDYxZDJWNzZtUWRXNlU9EiRmOTQyYTBkZi01YzRmLTRiYzktYTQxNi05OWY1NTU5ZDFjMDIYACACKAIwg5/lqMMxOMrXh+O6MUDS5eKowzFKHGo1YjR1TjdtL25UMXRMaXZRRURhZ01RVnFGUT1aHyId1ytDZW1UcTBmL0FMSlNrTXpUVzE1VWZhMlI1RT1l99PDgRKoAQgPEqMBChxTWVBmZ0hPTXFzeG4rbU10SW9jS0ozU09ncDQ9EiQwZDRlMTFlNy0yYTI2LTQ5MmUtODI1MS0zZjc3YmFiM2NlZjAYACACKAIwhJ/lqMMxOI7cxaHsMEDU5eKowzFKHEkxNitrM0JLYkUzSlU5SllHRDNZa1NQSEFpND1aHyId/0Q2aktwQW5nMVdseWpOakcxUmlaUnNDK0FOVT1lZPRF1xKqAQgXEqUBChxqRGNsR0x0LzQ2ZGIwSktSUmM2b3ZvbjdkVzg9EiQ0MGE1NWYwNC1iODY3LTRlMzMtYTcwNi1hYmZkNWM1NzgxZjYYACAAKAAwksK1rIsxOI7DtayLMUCOw7WsizFKHFJJcnJUWVp6WHhuTXFZYnpTRGxHOXpFVjNoZz1aISIf///oQ2ZCa0tWVDh6RTlqM3VhbGVlcjJTbDZaSVFNPWV9TrgCEqkBCBESpAEKHDVNVU81cXVaUzVsb2dyQjg3MnVmOEpObmUwTT0SJDg3NmYzNWE4LTkyZGYtNDAzOS05ZTRhLTk4NjcyNGMyYzljORgAIAAoADCcp9v5tzE4l5HylPEwQJeR8pTxMEocSWtrM1RTY29VakJ2Z3pzWEk5YUgxZmVUOU9jPVogIh7/+2RWRkRTQVY4RmlsN0ZyaWIyeXlxYUd2WGpDVT1lm1ulJxKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQyZTA1NDc2Yi1jYmNiLTVlNjUtYWM1MS1iMTVmZDgyZGVkMDAYACAAKAAwh46+jbIwOMf/18r0L0DH/9fK9C9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEqoBCBYSpQEKHGw2T1R4Vk1PZ2FHSGduLzNUZXI1VmZJZ00waz0SJDUzYWIxODc0LTFhMjktNGZjYy05YzczLWZhODY0YWMzYjNiZBgAIAAoADD1267ZijE499yu2YoxQPfcrtmKMUocV1JNOUlnVXNzLzVST3RoTHRIcFVrMEsyU3ZBPVohIh///9E1bW5adUozTWZ2Rm5GblB6c1N1NnRUSStFUWs9ZQAAAAASqAEIDBKjAQoca01ISk9nZkcxbWNrM1NEU25Sa2NCUkpNZUU4PRIkMzdkM2M2MWItYzM0My00YzMzLTg1YmQtZjVhNGQ5YTRkNDRjGAAgAigCMIWf5ajDMTj7oOXN6DBA0+XiqMMxShxnVFdtQnhiRldKMlB5clY0c25sV2x3eFN3b0U9Wh8iHft1eFZDNlViWENyeHVKZ1Yyak8vZlhac21TNmM9ZTj5OTMSqQEIFBKkAQocV1VxaHVTNDArbXVZdVVyYVo1VmV0azFSWCtRPRIkODYyNjYzNzItYjYwNy00NTk1LTk3YTEtZGRkNmM2ZWRiMmM0GAAgACgAMOL4l6HDMTiEzeKyiDFAhM3isogxShxpT3BzTzZYVEI0aXZzdjJnQnJHLzhrcGM1MlU9WiAiHv//RUpuSDdvL1JoWWNxL0dXRGNma1pML3VocnJzPWUSdDmaEqgBCAoSowEKHFltVGNPVGpCVHB1TTlPSDJZTzFIWTBQSXAzYz0SJDQ3NWFjMmQ5LTIxOTctNGY3MC1iMTllLWQ0MWEyOTI5YTBlMhgAIAIoAjCGn+WowzE41PaBuucwQNLl4qjDMUocdDlndlJsMXd6cXI3YitjT3R3ZnNoSXZUZnc0PVofIh33VmtpSXhUR1E2N1FWSlk1RGR4cEJKOVVVSDJBPWUCtZnZErABCDUSqwEKHEZqVFNBUS9iYzN0Sy8yRDV2TlcwRmVQY3hSOD0SJDJlNTUwMzE0LTRlYzctNGU0NC05YWZjLTdlNTViZWFmZGYzNRgAIAAoADDvq+apwTE4iq/mqcExQIqv5qnBMUocL1pUTDNxN0pUbEF2c2JDN0NMVXE5ZldEUzdrPVonIiX/////AAAABf5nWVlLNzF3R0N0d1dZWXVkTWxBVVcrOVBCdnc9ZeDcZuASrwEIJhKqAQocdmpVbGJBcTZ0ZFNRVzJrS0pXZ0xBUWQweGZBPRIkZmI4ZjgzNzYtZjAwOS00NDdmLTkyZmEtMjZkOGY1YmM0MmNlGAAgACgAMOLZ64+mMTjT3euPpjFA093rj6YxShxJdkVwS3hLd2RYSldGTGltUjVhdGJ3U2o5bmM9WiYiJP////8AAAAEWnMxcFNjYzlyWDFQSzBnbXh3dHMyaTN4cUZvPWV8I9VjEqoBCBoSpQEKHERhbDNGZ3NrYVhMclEwNlU0akJEVkEzbGVGdz0SJDFhMzk0M2RlLTIyNTAtNDExOS1iMDJlLTZiYjg3ZDgwYWUyZBgAIAAoADDI/pm6kTE4p4KaupExQKeCmrqRMUocYnJLd1dHekdxeGhyM0N2ZUVJc2NzVDk2eHBNPVohIh////1iaFNGRWwxc0c0NjljMGhIWGNjL09Sd1llcFE9ZffTw4ESqgEIFRKlAQocejZVY1cyRUtSL2VFMUhkSHNEWXNXamZkZ2FBPRIkMmE1ZWZlNjktNmIxOS00MDhhLWIxM2UtMmUyNzU2NGE0MTQ0GAAgACgAMIPFzdmIMTjlxc3ZiDFA5cXN2YgxShxNQW5CcFlkWHAwSk4zZXpjK0lQMkVjNzZxRGs9WiEiH///ojBOYndKT3dnd1NnazFaeWpKQ2FUQmNKNWtsST1lAAAAABKwAQg0EqsBChxmc1N2T3p5RGhkcnB1WGNwZkJaNlVxbzhhY2s9EiQ2YWFkNWI2Ny03YTUwLTQ5YTgtYWEzNy1kMzU2ODkwYmE4NzYYACAAKAAwqZnDoLoxOJKdw6C6MUCSncOgujFKHHRhY1ppaHY0MXE2dktSU2NKTFE3S2VFblZ1RT1aJyIl/////wAAAAX9Rm5oS0VyRlFjR3NRSXUrWkdRYlN1dm43YWM0PWW+bqpJEqoBCBsSpQEKHEV1c244R2c1RDJnVnNyMHdUWUx4U3pWWkxGST0SJGYzN2EwMjg4LTE3MmYtNDNiMy04OTE5LWZmY2M3ZjBmZDNiYhgAIAAoADDV6cy0kjE4wu3MtJIxQMLtzLSSMUocbFhDWjRpMjY2czdOQjVVVjZydUdDVWFUM2R3PVohIh////5KbEg4c3RheEpRbFRoRXJhL0JIVCtrdFR0WFE9ZX1OuAISqgEIHRKlAQocNGNNdDJ5cXNwN0I0bU4zRFRJQjZ1RXI1ampzPRIkYmFlNTMwYWEtYTU4NS00ZWJiLTk1NDItODM2ZDlmZjA5MmY2GAAgACgAMM/OsY+YMTjr0bGPmDFA69Gxj5gxShxzK2JyMmh0bmJiTnVUcitqck1aYW9QRnhWUnM9WiEiH////3lhZXZnZU9kejh5cjlOa3B0cVFWeUVCTmkwST1law674BKwAQgoEqsBChxXVGlhZDhvZ2VjVWdLTUVCWDlwbzZRdkhUVmc9EiRiODYzN2NlNy1jZTY5LTRkZDctYjAzMS01ZjZhOWU5YjBiM2IYACAAKAAwrKurwaYxOKyuq8GmMUCsrqvBpjFKHEJzdlZyS1lOZzV5OUY4KzBCbmR2TitjMm5BVT1aJyIl/////wAAAATWT3BMODQ2WXVTc1V5clJiNXdndUdlZndteFRJPWVdR4+DEqsBCCISpgEKHHhja2pCVFRvMzVwSUJPN2RzdnV4WDhyK01pST0SJDE3YmExYmEzLTY0ZDctNDMyNC1hMjBkLWRmNmQ0NzljZGY4ZRgAIAAoADD33baUozE43+C2lKMxQN/gtpSjMUocd3JhNXZ2VWJCQVkvUEdxcXM5Q0gyVVQxbFhBPVoiIiD////7SGd1dW9Zck4xWXFuRkZQWUdVZE9Bc3o4UDUwPWV9TrgCEqsBCCASpgEKHFlqUkkrK3ZCNWllRmZxdlVpUnM4cnRrTjgraz0SJDlhZjkyZWQ4LWUxZGEtNDM3Mi1hOTBkLTBlOTYyMWViMWE2YxgAIAAoADC7243mtDE42IDrxaIxQNiA68WiMUocL3RuRGVJaGRSVWpTbHdvaGs0MEx5ZHdieGFZPVoiIiD////vNnYzVkR1TEZ0UWhmUGVGaE1pOWlYK0RpSUY0PWXkALKDEqoBCBwSpQEKHGZBaVFYRzRMVGJobDBpVE1ubFE4alZLUEp2WT0SJDc1N2Y4MGRkLWYwYjAtNGM3Zi1iYjExLTgyOWQwMDg4NTE0ZBgAIAAoADDG4Z7TkzE4/eae05MxQP3mntOTMUoceWdDc1VPUnRVZVo4NEN0YnYySlQ0cXExbTJjPVohIh////9YNXRFaHhMRWNKRmx5TEZkSUM3ODRTSk5vVms9ZX1OuAISqwEIIRKmAQocRVNKUFB5eUtHa1Y2K3lHMytOWnFrNHp5UVk0PRIkNDkzYjA1NjMtOTZhMS00MTU4LTk3NjAtYjIyNzY1NjdmMGY5GAAgACgAML+Uws6iMTj6l8LOojFA+pfCzqIxShxDK2dxbWpHYnduWU1kV29HRUJzb2RzQWEycG89WiIiIP////dQUUp5NWlMMWJXRDhUZUlBQXkzNG1GRjV5RVE9ZQi69qMSqgEIGBKlAQocOXZIQ3FGK2lFdmJQME1oV0s2U1FPWkgvMVk0PRIkOTFhODEwMGUtNDEwYy00ZjdkLWFlZjYtMzAyYzA4OTcyZWI3GAAgACgAMJbfqpaOMTjv4aqWjjFA7+Gqlo4xShxWcjI3VThWOGtST0lnMFJoOFp2bzg2VWtLMEE9WiEiH///9HdUK3pLdlBST200MVZ6NUNMUDg2SHZPRm82ND1lxJF2xRKrAQgkEqYBChx3aWpJMGU2MjFMbjFoREZCMDRvd3JEalpxaWM9EiQwMzBmZjRjZi1kZjc4LTRkNjItYjgyOC1lYzFlOGI3ZDU4ODgYACAAKAAwpdXMg6YxOJDfzIOmMUCQ38yDpjFKHE10N3FKVUFKSlp1bGpDV2UzNlI2ak1GUExTbz1aIiIg/////nRWRmljTUdNZzJESDRBNUR5OEtGUlhQMFNTST1lfCPVYxKwAQgxEqsBChxkL3hmSnNRT09FUXBodDhSM2ZBWjBveWExYmc9EiRlYjM4OGZhYS04OTQyLTQ4NGUtODFhNy0yMGFiNjZiODEyNTAYACAAKAAwkrii3bgxOKC7ot24MUCgu6LduDFKHHU2b2h6WVBjdkZSS1V6c3U2Z2ovcDZMbUM2cz1aJyIl/////wAAAAXqTjZQUzAwMkYzZXIzcUtMYkhEN0tjYXVBU0xJPWUXUQP1EqsBCB8SpgEKHDNwb3V3UEg5aUs0anhvMDhsSWcxcmFYQWdFQT0SJDQwZTIxZWU1LTY0MzctNGE2NC1iMmNkLWVkMjhjZTU3YjEzNxgAIAAoADCH+djfmDE47u3F35gxQO7txd+YMUocWFRzajJxd1Q3bFE5WlNOaUlNd1h3SEpjcjF3PVoiIiD////eV0FkUjl6WWtqQjBrZHIyRHp3b21HcThEcVd3PWXO5UpaErABCDISqwEKHFpZdEN0WDIzbkN2Q2wxNGFlblluaWVmTkxPST0SJDlkMGFhNDBlLTQ3MmYtNDY1NC05YmVkLWUzNjg5OTlmN2Y3OBgAIAAoADDl7aL4uDE42/Ci+LgxQNvwovi4MUocUTBTdEFLUFN3dlEwK3lxbnh5L3N3STg5bDBJPVonIiX/////AAAABfV5ampJMndwNkZKUVUyTUtaaEtnM2ZWNU1GTEU9ZRRP+BISsAEILBKrAQocRmdtYU1KdjRYdHJxeDB2M0RxVEVzY0JwRGZRPRIkZWRiNWFlZDMtZGMxMy00NTEyLTg4MzEtMDlmOTcyMzk2MDUzGAAgACgAMLK/lcKwMTi/xZXCsDFAv8WVwrAxShw0YXlkSmkrOHNlVmkvbkpVcFlSVVJUbXZibU09WiciJf////8AAAAE/Upqd1dLWG84NUUwcy81VE5kWGsrMEhsRGRFWT1lXUePgxKpAQgTEqQBChxSZ1hlazlraFZPcGp5WXdsZ0gza0QwNllXbVU9EiQwMDg0ODAxYy0yOWNjLTQ4NGMtOWNhNy1mNmY2ZDQzOTZkYjcYACAAKAAwtvqZzYkxOPPVtq2BMUDz1batgTFKHHBYYTBacnJRUy84TmdsREZLUVFvUlNIM1VlMD1aICIe//4vYVpKOGFOOS94TVBXRDJIOC9MU3pER1BET2c9ZV1Hj4MSsAEIJxKrAQocNC9Md3Jha3Zqd1NxcVNZRFJOL3JFVHFqQ2I4PRIkMDEyZDA4ZjQtMGY5My00MzE1LTljYzYtYzQwM2NlOTU0ZWE2GAAgACgAMMTmy5+mMTji6sufpjFA4urLn6YxShxaYWtVeDRycTIxUmZMWHhHZEZpVU1yNGRiREE9WiciJf////8AAAAErTdSQjhtYkZDVEZxNldtYzJWM3I3bWZTb2syWT1l7fLrkxKvAQglEqoBChxKU1ZFRndOTEo4NWJTbHMxTzh4eGFIcDVmNUk9EiQyZWVjYjk5Ny1hMmNmLTQzZWMtODhlYS05YTYyYWY1MDc2MjgYACAAKAAw886IhKYxOMDSiISmMUDA0oiEpjFKHHI5czZIeUFIOEhjZ2MvYkVEbllES3lpbEhDZz1aJiIk/////wAAAARJbURDS0VDZU1wRFpJZXA3SlgwckZ1N2NqMEk9ZZCx2vQSqQEIEhKkAQocUitIOGN1YnJUV2xjd2lsUGc3bnJMQlVUZElFPRIkNjQ2Mzc4YjctNjI5YS00YzQ0LTkwMzctY2RiNTNiZGEyZDk3GAAgACgAMIzuje/6MDir743v+jBAq++N7/owShxHWjgxU3ZXWkxDaUllcFdmdDJPcTIyZG1BTW89WiAiHv/9WG9qL0g3Mi85dEhTRnBqNk51ZHlUR3poZERBPWU4+TkzEq8BCDYSqgEKHDJRYjVSQXRvYkwyVzRoWlV2RUEzaWh2M1FYRT0SJDVjOTAwNWVkLTkwN2UtNDMxZS1iZDE1LWRhM2I4MDA3M2MyMhgAIAAoADD56NvawjE4levb2sIxQJXr29rCMUocY2UwbGxmdXJDRXF1L1I3SDVqTGJhVXhPQ3hJPVomIiT/////AAAABm9UejBVNTdpMHNJcDlFZ05DR2hVVE5YQkNYcz1lfU64AhKwAQgpEqsBChx0KzExRDFVSjdmTDBGRnd5S05mN2ZabENxR3c9EiQ3ZjIxMzM1NS1jYzE1LTRlMGUtYWEyNi01MDZlZWQwNmNiOTgYACAAKAAwxv/1h6cxOK2D9oenMUCtg/aHpzFKHGVNZkVXOEI5Y2RTc25UN0hXUkJ1SSs5MG5rST1aJyIl/////wAAAATrak80d0cxcTRhSGViWmNSYjM3akVxMDM2VkpnPWUIuvajErABCDASqwEKHHRPQmZHWkk3N2w5QkF2ZnlFR2lwQlEzaFBJRT0SJDAyOTI1YmQ4LTFmYTItNGIzZS1iNTk2LTI4YTE1YjhlOGU2MRgAIAAoADD61aztszE4iLfLibMxQIi3y4mzMUocRzhPbWg5Zm5kOTBIeHB5bVB0U1F1cVM5ZW9BPVonIiX/////AAAABdR4SU5naUxZczVxRS83WVFpbWkwZ1p5WnZwLzQ9ZSVgHH8SqAEIDRKjAQocRTZ6QWRiTXZldDFDM3hQaWduZ0c4WGkrVFgwPRIkZDBlZGRjYjktMzQ5Yy00Y2NkLWIyODItY2ZiYTQ5ZDY4NDU2GAAgAigCMIqf5ajDMTjhmN2d6TBA0+XiqMMxShxzbG8vZzZpNkhtajhsL2pYY2Y2cnovTTJTczQ9Wh8iHf4xdU05aHpkbUp3MjVBZTBDL3VTL1d5RGtJOHM9ZRJ0OZoSqQEIEBKkAQocNTNranpKenBmUVFRaysrWkExNER5NGZuK2lRPRIkOTAyYTM5MTItY2IzYi00ZWVhLWE2MmQtODNkOWE4ZGUwNTFlGAAgAigCMIuf5ajDMTjMu8Wu7DBA1eXiqMMxShxiNDlkQXEzOEYrM0JqYU4rekJxMVM0NkpROHc9WiAiHv+0QlVkakVmVHFBT1FKMm5aZ2ZBRmxSMDhoRG5rPWV9TrgCErABCC8SqwEKHGV5aGk5cHdKK01MQWttaFhreW0wbnM1MWhLQT0SJGQ0Y2YwNzMxLWJkN2MtNGY1MS04MzU1LWZkNWJjZjZiMDI1ZhgAIAAoADCs7M7NsTE4m/DOzbExQJvwzs2xMUocaGZ2NFh2UFlwdUJ0a3c3MFFLK3pEZ3FjN0lBPVonIiX/////AAAABalOT0p2anpwaUpKOE52VXlnNnNiUVdtTHVrZEE9ZRdRA/USqAEIDhKjAQocdFFSTXpsSGVaWktVTWY0SEU4bjFSV3NPdnJNPRIkNWYyNjJmOWMtN2RmOS00ZTQ3LWJiZWItMjA4MDRmMWI0MzYxGAAgAigCMIif5ajDMTiaxsfCujFA0+XiqMMxShxVdWxOT3o3V0JMNnRWV2x4VWgzZHlTcE9tb289Wh8iHf5mblNTa21hRWp2Rlh2WXRtNTBYQXNzSEdVWjA9ZcSRdsUSsAEIMxKrAQocYnR3dVpKaTY3Qy93bThBRVM1RERMUVphdnpJPRIkYjdhYTAxNjctYmEzMC00MjQ1LTlhNTQtM2UwN2NkNGZkNjlmGAAgACgAMIOckJ+6MTi4oJCfujFAuKCQn7oxShxlSWh0OGQ5WXIyT0R1R1dUYlJOaCt3RWptY1U9WiciJf////8AAAAF+mNkelc3YjVrUXB3a25WRVUrdHpzdW5hMUFldz1lvRdetRKwAQgqEqsBChxKSnozcjFSMmtITy9CRFFuVWVVbFpMOVNCYkE9EiQwYTdkY2RmNS0xOGQ1LTQzZWQtOWQ3ZC1hNDU2NTgxNjFmMTEYACAAKAAwzN+1o6cxOIjitaOnMUCI4rWjpzFKHE92aXdyOVVUbmx6dG1MNkZ0cUs5RFp0VXhCOD1aJyIl/////wAAAAT1bGhYM0ZoRitHZU14UFdxOHdqbkFSY2NTL1R3PWVdR4+DEqcBCAcSogEKHGlKajErb1lpZ2kvWE1CZmpOL3ZudFJaYjh0az0SJDE5MGVhNzdlLTllMDMtNDg3Zi04MTVlLTFkMGRlNTMzNGYwYRgAIAIoAjCMn+WowzE4gNizyIAxQNHl4qjDMUoccnFvblo0c1gvbDRSMnBRcEZqc0lPeTI0cmxVPVoeIhwrSXlvbHhBY0V4SkgzL01pdDFPbHpyVlMxVTA9ZQfZF1QSsAEILRKrAQocRTdUeEU1dytoanZGV3pna20wRzlTUlZDYWdNPRIkNTg3OTVmMGEtOTQwNS00ODc5LWE0ODItNzM0ZDI0MGQxOTgxGAAgACgAML/mrsOwMTiR6a7DsDFAkemuw7AxShxaK3NwMlkva1I5cW1qOGUwL29namNpeTV5WXM9WiciJf////8AAAAE/kg1UllSdUdhcUZHbHZPU2libXNZeExreXdTcz1lUQLg+xKoAQgLEqMBChxzdXoreEo3eXF1aHpDQTR3ZGhWTHQyV2lIb3M9EiQ3NzUyYWEzNi00Y2JiLTRkNmYtYTM1NS1jZWE5M2FlOTE0N2YYACACKAIwiZ/lqMMxOIna/e3oMEDS5eKowzFKHFU3Y1h2cXpMNHRtWkZDVGRTSlRuSmZUajFIST1aHyId+XY1SFVHV0JLZjBpbFZYbkZyOU0vcStJcExIWT1l7RRE2hKrAQgeEqYBChxUU1gvelZTS0xrOEJmNndmMFkrZFlCa0kycGs9EiQ3MGE1OTAxYi1lZGU2LTQ5ZTUtODgxMi0yMGJiNWEzZGViZDAYACAAKAAwyerF35gxOIbuxd+YMUCG7sXfmDFKHG4xdkZmcWYvRm40eUozWXpMalRrYTBuU2FXUT1aIiIg////vHR1cytSaXRzV2hkMW5HZ1QxS2NIbGVFTE1CUT1lEDD/5BKrAQgjEqYBChxQZEpsWDkxb2RPK2p5K2l3bHRDSE9yT2Y1YkU9EiRkMWJiZTFlZS1kYjRjLTQ3MzgtOGQyOS1kMGM4MDRiNWZjYjYYACAAKAAwpNXMg6YxOOfezIOmMUDn3syDpjFKHGcwYkYwNEI5cFZrYmxUV0tuemh6TU52czA4ST1aIiIg/////U5wNFQ3MEdsd2ZBZ2h0UU1wVXlLcnloSzVKWT1l/IJXpRKwAQgrEqsBChwzSnVvOFhqZy8yUm4zVDYvVGY2U0xMaVd0aWs9EiRiMjI0YTM3YS0zMzYyLTRiMDAtOGQ5MS03NDdjYWRiZWRlZGMYACAAKAAwh5X5464xOPKX+eOuMUDyl/njrjFKHFFYSHJCSEtuRC9ObjZDUnNRaFRlRk85SnVwRT1aJyIl/////wAAAAT6STBqWkhBWGZISzluUkNMNWJwdW9qV3d4TVdjPWUPzDQUMAA4AA==",
+   "version": 1
+}

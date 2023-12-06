@@ -1,0 +1,34 @@
+com.example.cuoiky.app-debug-0 C:\Hoc\LT di dong nang cao\cuoiky\android\app\src\debug\res
+com.example.cuoiky.app-main-1 C:\Hoc\LT di dong nang cao\cuoiky\android\app\src\main\res
+com.example.cuoiky.app-RES-2 C:\Hoc\LT di dong nang cao\cuoiky\build\app\RES\processDebugGoogleServices
+com.example.cuoiky.app-pngs-3 C:\Hoc\LT di dong nang cao\cuoiky\build\app\generated\res\pngs\debug
+com.example.cuoiky.app-resValues-4 C:\Hoc\LT di dong nang cao\cuoiky\build\app\generated\res\resValues\debug
+com.example.cuoiky.app-rs-5 C:\Hoc\LT di dong nang cao\cuoiky\build\app\generated\res\rs\debug
+com.example.cuoiky.app-mergeDebugResources-6 C:\Hoc\LT di dong nang cao\cuoiky\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.cuoiky.app-mergeDebugResources-7 C:\Hoc\LT di dong nang cao\cuoiky\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.cuoiky.app-merged_res-8 C:\Hoc\LT di dong nang cao\cuoiky\build\app\intermediates\merged_res\debug
+com.example.cuoiky.app-packaged_res-9 C:\Hoc\LT di dong nang cao\cuoiky\build\cloud_firestore\intermediates\packaged_res\debug
+com.example.cuoiky.app-packaged_res-10 C:\Hoc\LT di dong nang cao\cuoiky\build\firebase_auth\intermediates\packaged_res\debug
+com.example.cuoiky.app-packaged_res-11 C:\Hoc\LT di dong nang cao\cuoiky\build\firebase_core\intermediates\packaged_res\debug
+com.example.cuoiky.app-packaged_res-12 C:\Hoc\LT di dong nang cao\cuoiky\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.example.cuoiky.app-packaged_res-13 C:\Hoc\LT di dong nang cao\cuoiky\build\image_picker_android\intermediates\packaged_res\debug
+com.example.cuoiky.app-packaged_res-14 C:\Hoc\LT di dong nang cao\cuoiky\build\path_provider_android\intermediates\packaged_res\debug
+com.example.cuoiky.app-lifecycle-viewmodel-2.6.1-15 C:\Users\huype\.gradle\caches\transforms-3\045a9e306a37c835747f925a3fff2d6e\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.cuoiky.app-jetified-savedstate-1.2.1-16 C:\Users\huype\.gradle\caches\transforms-3\06f1f6593869a63768ed146cfbaa0e2a\transformed\jetified-savedstate-1.2.1\res
+com.example.cuoiky.app-jetified-window-1.0.0-beta04-17 C:\Users\huype\.gradle\caches\transforms-3\076eb9235982ee06112d76594ea8585f\transformed\jetified-window-1.0.0-beta04\res
+com.example.cuoiky.app-jetified-firebase-common-20.4.2-18 C:\Users\huype\.gradle\caches\transforms-3\29429379be0edfde063e43fae29f4d1b\transformed\jetified-firebase-common-20.4.2\res
+com.example.cuoiky.app-lifecycle-livedata-2.6.1-19 C:\Users\huype\.gradle\caches\transforms-3\33dd62f120e2f491197015f785af45ee\transformed\lifecycle-livedata-2.6.1\res
+com.example.cuoiky.app-browser-1.4.0-20 C:\Users\huype\.gradle\caches\transforms-3\3b15f093a1d4ccfedac46d94f54273e7\transformed\browser-1.4.0\res
+com.example.cuoiky.app-jetified-core-ktx-1.10.1-21 C:\Users\huype\.gradle\caches\transforms-3\47085114ff49c80095b55db1e8d4ce63\transformed\jetified-core-ktx-1.10.1\res
+com.example.cuoiky.app-jetified-startup-runtime-1.1.1-22 C:\Users\huype\.gradle\caches\transforms-3\4fe6fe3fdff42ccd1f593df325030e89\transformed\jetified-startup-runtime-1.1.1\res
+com.example.cuoiky.app-lifecycle-livedata-core-2.6.1-23 C:\Users\huype\.gradle\caches\transforms-3\51c4237b152abce1e932c12a63f62b14\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.cuoiky.app-jetified-play-services-basement-18.1.0-24 C:\Users\huype\.gradle\caches\transforms-3\55b4e390742817dc4b9653e42d791034\transformed\jetified-play-services-basement-18.1.0\res
+com.example.cuoiky.app-jetified-play-services-base-18.0.1-25 C:\Users\huype\.gradle\caches\transforms-3\680a2964d8a0bce7cbd43c0f88e0420c\transformed\jetified-play-services-base-18.0.1\res
+com.example.cuoiky.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-26 C:\Users\huype\.gradle\caches\transforms-3\726878209e2d58122feae6e5e9c50e0f\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.cuoiky.app-jetified-annotation-experimental-1.3.0-27 C:\Users\huype\.gradle\caches\transforms-3\761929e091d544d9e6394773eda8bdee\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.cuoiky.app-core-1.10.1-28 C:\Users\huype\.gradle\caches\transforms-3\889ce5bd12f1117e5357d5fcdb5e1305\transformed\core-1.10.1\res
+com.example.cuoiky.app-core-runtime-2.2.0-29 C:\Users\huype\.gradle\caches\transforms-3\940b9309689e502e1c69a5135892cdcc\transformed\core-runtime-2.2.0\res
+com.example.cuoiky.app-jetified-window-java-1.0.0-beta04-30 C:\Users\huype\.gradle\caches\transforms-3\99750bb863b6fe460a7b5da8686e778d\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.cuoiky.app-jetified-activity-1.7.2-31 C:\Users\huype\.gradle\caches\transforms-3\b91d5b010bb7c1fbb9d04195e8906de4\transformed\jetified-activity-1.7.2\res
+com.example.cuoiky.app-jetified-profileinstaller-1.3.0-32 C:\Users\huype\.gradle\caches\transforms-3\b92cbf7d134b1c7f58467c023b6e5f48\transformed\jetified-profileinstaller-1.3.0\res
+com.example.cuoiky.app-lifecycle-runtime-2.6.1-33 C:\Users\huype\.gradle\caches\transforms-3\f9ab57318e353231e2e9f0f159e658ae\transformed\lifecycle-runtime-2.6.1\res

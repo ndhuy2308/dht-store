@@ -1,0 +1,40 @@
+2023/12/05-21:05:53.470 340c Reusing MANIFEST C:\Users\huype\AppData\Local\Temp\flutter_tools.85f3d5ae\flutter_tools_chrome_device.c05f45b8\Default\Sync Data\LevelDB/MANIFEST-000001
+2023/12/05-21:05:53.471 340c Recovering log #15
+2023/12/05-21:05:53.473 340c Reusing old log C:\Users\huype\AppData\Local\Temp\flutter_tools.85f3d5ae\flutter_tools_chrome_device.c05f45b8\Default\Sync Data\LevelDB/000015.log 
+2023/12/05-21:05:53.474 340c Delete type=0 #3
+2023/12/05-21:05:53.474 340c Delete type=0 #6
+2023/12/05-21:05:53.474 340c Delete type=0 #9
+2023/12/05-21:05:53.474 340c Delete type=0 #12
+2023/12/05-21:06:00.562 2e58 Level-0 table #19: started
+2023/12/05-21:06:00.565 2e58 Level-0 table #19: 143702 bytes OK
+2023/12/05-21:06:00.566 2e58 Delete type=0 #15
+2023/12/05-21:06:00.567 2e58 Compacting 4@0 + 1@1 files
+2023/12/05-21:06:00.571 2e58 Generated table #20@0: 88 keys, 7309 bytes
+2023/12/05-21:06:00.571 2e58 Compacted 4@0 + 1@1 files => 7309 bytes
+2023/12/05-21:06:00.572 2e58 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/05-21:06:00.572 2e58 Delete type=2 #7
+2023/12/05-21:06:00.572 2e58 Delete type=2 #10
+2023/12/05-21:06:00.572 2e58 Delete type=2 #13
+2023/12/05-21:06:00.572 2e58 Delete type=2 #16
+2023/12/05-21:06:00.572 2e58 Delete type=2 #19
+2023/12/05-21:10:51.706 2e58 Level-0 table #22: started
+2023/12/05-21:10:51.710 2e58 Level-0 table #22: 151037 bytes OK
+2023/12/05-21:10:51.711 2e58 Delete type=0 #18
+2023/12/05-21:18:36.915 2858 Level-0 table #24: started
+2023/12/05-21:18:36.919 2858 Level-0 table #24: 159504 bytes OK
+2023/12/05-21:18:36.920 2858 Delete type=0 #21
+2023/12/05-21:29:29.555 2e58 Level-0 table #26: started
+2023/12/05-21:29:29.558 2e58 Level-0 table #26: 156213 bytes OK
+2023/12/05-21:29:29.559 2e58 Delete type=0 #23
+2023/12/05-21:49:01.795 2858 Level-0 table #28: started
+2023/12/05-21:49:01.801 2858 Level-0 table #28: 134099 bytes OK
+2023/12/05-21:49:01.803 2858 Delete type=0 #25
+2023/12/05-21:49:01.804 2858 Compacting 4@0 + 1@1 files
+2023/12/05-21:49:01.812 2858 Generated table #29@0: 92 keys, 13049 bytes
+2023/12/05-21:49:01.812 2858 Compacted 4@0 + 1@1 files => 13049 bytes
+2023/12/05-21:49:01.814 2858 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/05-21:49:01.815 2858 Delete type=2 #20
+2023/12/05-21:49:01.815 2858 Delete type=2 #22
+2023/12/05-21:49:01.815 2858 Delete type=2 #24
+2023/12/05-21:49:01.816 2858 Delete type=2 #26
+2023/12/05-21:49:01.816 2858 Delete type=2 #28
