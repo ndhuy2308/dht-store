@@ -109,7 +109,7 @@ class _HomeState extends State<Home> {
       // lấy danh sách các sản phẩm mới nhất, lấy theo document id, cao xuống thấp
       QuerySnapshot snapshot1 = await FirebaseFirestore.instance
           .collection('product')
-          .orderBy('id', descending: true)
+          .orderBy('id', descending: false)
           .get();
       latestProducts = snapshot1.docs;
 
